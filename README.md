@@ -1,18 +1,18 @@
 # Cryptocurrencies
 
-## Deliverable 1
+## Deliverable 1:
 
 ### Preprocessing the Data for PCA
 
 ![deli1](picture/deli1.png)
 
-## Deliverable 2
+## Deliverable 2:
 
 ### Reducing Data Dimensions Using PCA
 
 ![deli2](picture/deli2.png)
 
-## Deliverable 3
+## Deliverable 3:
 
 ### Clustering Cryptocurrencies Using K-means
 
@@ -20,7 +20,7 @@
 
 ![deli3](picture/deli3.png)
 
-## Deliverable 4
+## Deliverable 4:
 
 ### Visualizing Cryptocurrencies Results
 
